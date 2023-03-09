@@ -23,3 +23,6 @@ Other users: all the permissions.
 
 10. Write a script that sets the mode of the file hello to this:
 -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
+
+11. Write a script that sets the mode of the file hello the same as olleh’s mode.
+-rw-rw-r-- 1 julien julien  0 Sep 20 14:43 olleh
