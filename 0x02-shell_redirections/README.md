@@ -28,3 +28,17 @@ I performed the following tasks:
 13.
 
 14. Display lines containing the pattern “root” from the file /etc/passwd
+
+15. Display the number of lines that contain the pattern “bin” in the file /etc/passwd
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21. esreveR: Write a script that reverse its input.
