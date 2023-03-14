@@ -1,0 +1,3 @@
+
+#!/bin/bash
+ls -Rd | wc -l
