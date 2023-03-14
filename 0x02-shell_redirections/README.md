@@ -21,4 +21,10 @@ I performed the following tasks:
 
 9. Write a script that duplicates the last line of the file iacta
 
+10.
 
+11.
+
+13.
+
+14. Display lines containing the pattern “root” from the file /etc/passwd
