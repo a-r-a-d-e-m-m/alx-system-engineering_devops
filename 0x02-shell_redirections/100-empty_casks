@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1aR | find -type f,d -empty
+find ~/*/ -empty -exec ls -Fd
